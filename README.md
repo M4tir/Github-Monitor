@@ -4,7 +4,7 @@
 
 **监控器使用Python + E 编写,兼有两种语言的优点**
 
-**免去了往常的Github监控系统繁杂的搭建操作,只需要一个Windows服务器,安装Python3,即可运行.**
+**免去了往常的Github监控系统繁杂的搭建操作,只需要一个Windows服务器,安装Python3,和Requests模块,即可运行.**
 
 ![Image text](http://i2.tiimg.com/713319/7bcbf52620e8fdd6.png)
 
