@@ -6,6 +6,6 @@
 
 **免去了往常的Github监控系统繁杂的搭建操作,只需要一个Windows服务器,安装Python3,即可运行.**
 
-![Image text](https://github.com/M4tir/Github-Monitor/blob/master/1.png)
+![Image text](http://i2.tiimg.com/713319/7bcbf52620e8fdd6.png)
 
-![Image text](https://github.com/M4tir/Github-Monitor/blob/master/2.png)
+![Image text](http://i2.tiimg.com/713319/2e73c8571f5eeea4.png)
