@@ -6,6 +6,12 @@
 
 **免去了往常的Github监控系统繁杂的搭建操作,只需要一个Windows服务器,安装Python3,和Requests模块,即可运行.**
 
+**有人反馈问题,注意以下几点:**
+
+**1.确保你的电脑中有Python3,并安装了Requests模块**
+
+**2.之前下的重新下一次，忘记放了两个txt文件**
+
 ![Image text](http://i2.tiimg.com/713319/7bcbf52620e8fdd6.png)
 
 ![Image text](http://i2.tiimg.com/713319/2e73c8571f5eeea4.png)
