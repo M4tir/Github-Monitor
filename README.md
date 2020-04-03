@@ -12,8 +12,6 @@
 
 **2.之前下的重新下一次，忘记放了两个txt文件**
 
-**监控系统配置视频:https://www.bilibili.com/video/BV1Kt4y1U7mL**
-
 ![Image text](http://i2.tiimg.com/713319/7bcbf52620e8fdd6.png)
 
 ![Image text](http://i2.tiimg.com/713319/2e73c8571f5eeea4.png)
