@@ -14,6 +14,6 @@
 
 **更新:2020.4.7 10:23**
 
-![Image text](http://i2.tiimg.com/713319/7bcbf52620e8fdd6.png)
+![Image text](1.png)
 
-![Image text](http://i2.tiimg.com/713319/2e73c8571f5eeea4.png)
+![Image text](2.png)
